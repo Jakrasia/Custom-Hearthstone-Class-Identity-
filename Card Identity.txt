@@ -1,0 +1,288 @@
+//This document aims to list class identities for the purpose of custom card (set) creation for hearthstone. 
+//Section 1 lists classes and their associated identities, Section 2 lists identities shared by multiple classes, and which classes share them.
+//Help requested in adding to and improving this file via suggesting changes in the most recent reddit thread: [link]
+//V 0.1
+//Started by reddit user: SmaugtheStupendous for /r/Customhearthstone
+//List of contributing users: 
+
+Section 1:
+//Format: "Mechanic Name" (#Rank). A question mark '?' is added where no consensus on the ranking has yet been reached. 
+
+Class Identities:
+
+Druid
+	Thematic
+		
+	Mechanic
+		Choose X (#0)
+		Lotus (#0)
+		Ramping mana (#0)
+		Hero non-weapon-Attack (#0)/Armour (#2)
+		Spells <damaging> (#4?)
+		Buffing <many> (#4)
+		Healing (#3)
+		Card Draw (#3?)
+		Big (#1)
+		Transformation (#1)
+		Taunt (#2)
+		Beasts (#2)
+		Tokens (#3)
+		Treants (#0)
+		Recruit <4M> (#2)
+			
+Hunter
+	Thematic
+	
+	Mechanic
+		Beasts (#1)
+		Deathrattle (#1)
+		Spells <damage> (#5?)
+		Secrets (#2) 
+		Weapons (#4)
+		Poisonous (#2)
+		Low-Cost Minions (#1)
+		Burn <face> (#2?)
+		Charge (#2)
+		Goons (#0)
+		
+Mage
+	Thematic
+	
+	Mechanic	
+		Spells (#1)
+		Burn (#1)
+		Ping (#1)
+		Elementals (#1)
+		Secrets (#1)
+		Spell Damage (#0)
+		Freeze (#1)
+		Card Draw (#5?)
+		
+Paladin
+	Thematic
+	
+	Mechanic
+		Buffing <+x/+x> (#1)
+		Divine Shield (#0)
+		Healing (#2)
+		Setting Minion Stats (#0)
+		Secrets (#3)
+		Tokens (#1?)
+		Murlocs (#2)
+		Weapons (#3)
+		Taunt (#4)
+		Card Draw (#6?)
+		Lifesteal (#3)
+		Dragons (#2)
+		Goons (#0)
+		
+Priest
+	Thematic
+	
+	Mechanic
+		Healing (#1)
+		Spells (#2)
+		Copying cards (#1)
+		Destroy <stat based> (#1)
+		Stat Manipulation (#1)
+		Buffing (#2)
+		Alternate Hero Power (#1)
+		Silence (#1)
+		Burn (#3?)
+		Card Draw (#2?)
+		Deathrattle (#2)
+		Resurrect (#1)
+		Lifesteal (#2)
+		Dragons (#1)
+		
+Rogue
+	Thematic
+	
+	Mechanic
+		Combo (#0)
+		Stealth (#0)
+		Weapons (#1?)
+		Coins (#0)
+		Ping (#2)
+		Sapping (#0)
+		Mill (#0)
+		Bounce (#0)
+		Spells <cantrip> (#3)
+		Card Draw (#1)
+		Opponent Class Card Copy (#1)
+		Destroy (#2)
+		Burn <to undamaged> (#3)
+		Lotus (#0)
+		Deathrattle (#3)
+		Shuffle (#0)
+		Poisonous (#2?)
+		Secrets (#4)
+		
+Shaman
+	Thematic
+	
+	Mechanic
+		Overload (#0)
+		Tokens (#2?)
+		Totems (#0)
+		Buff <attack> (#3)
+		Burn <vs minion> (#3)
+		Murlocs (#1)
+		Ressurrect <resummon> (#2)
+		Lotus (#0)
+		Freeze (#2)
+		Evolve (#0)
+		Healing (#2)
+		Elementals (#2)
+		Taunt (#3)
+	
+Warlock
+	Thematic
+	
+	Mechanic
+		Burn <vs all> (#4)
+		Destroy <friendly> (#3)
+		Self Harm (#0)
+		Mana Crystal Destruction <own> (#0)
+		Discard (#0)
+		Demons (#0)
+		Hero Healing (#1?)
+		Lifesteal (#1)
+		Corruption (#0)
+		Life Mana (#0)
+		Card Draw (#2?)
+		
+Warrior
+	Thematic
+	
+	Mechanic
+		Weapons (#2?)
+		Enrage <damaged minions> (#0)
+		Armour (#1)
+		Destroy <damaged> (#4)
+		Recruit (#1)
+		Damage All Minions (#1)
+		Taunt (#1)
+		Health Requirement (#0)
+		Charge (#0)
+		Goons (#0)
+		C'thun (#1)
+		
+Section 2:
+//Format: "Identity Name <enter+tab> <list of classes by rank> <+ <clarification>>". 
+
+Shared Class Identities:
+	Thematic
+	
+	Mechnic
+	(6)
+		Card Draw
+			(#1) Rogue 
+			(#2) Warlock
+			(#3) Druid
+			(#4) Priest
+			(#5) Mage
+			(#6) Paladin
+	(5)		
+		Spells
+			(#1) Mage
+			(#2) Priest
+			(#3) Rogue
+			(#4) Druid
+			(#5) Hunter
+		Burn
+			(#1) Mage
+			(#2) Hunter
+			(#3) Priest
+			(#4) Warlock
+			(#5) Rogue
+	(4)		
+		Healing
+			(#1) Priest
+			(#2) Shaman
+			(#3) Paladin
+			(#4) Warlock <hero>
+		Secrets
+			(#1) Mage
+			(#2) Hunter
+			(#3) Paladin
+			(#4) Rogue
+		Weapons
+			(#1) Rogue
+			(#2) Warrior
+			(#3) Paladin
+			(#4) Hunter
+		Buffs
+			(#1) Paladin
+			(#2) Priest
+			(#3) Shaman
+			(#4) Druid
+		Taunt
+			(#1) Warrior
+			(#2) Druid
+			(#3) Shaman
+			(#4) Paladin
+		Destroy
+			(#1) Priest
+			(#2) Rogue
+			(#3) Warlock
+			(#4) Warrior
+	(3)		
+		Goons <handbuff>
+			(#0) Paladin
+			(#0) Hunter
+			(#0) Warrior
+		Lotus <jade>
+			(#0) Druid
+			(#0) Shaman
+			(#0) Rogue
+		Kabal <highlander>
+			(#0) Priest
+			(#0) Mage
+			(#0) Warlock
+		Deathrattle
+			(#1) Hunter
+			(#2) Priest
+			(#3) Rogue	
+		Tokens
+			(#1) Paladin
+			(#2) Shaman
+			(#3) Druid
+		Lifesteal
+			(#1) Warlock
+			(#2) Priest
+			(#3) Paladin
+	(2)		
+		Beasts
+			(#1) Hunter
+			(#2) Druid
+		Healing
+			(#1) Priest
+			(#2) Paladin
+		Charge
+			(#1) Warrior
+			(#2) Hunter
+		Armour 
+			(#1) Warrior
+			(#2) Druid
+		Dragons 
+			(#1) Priest
+			(#2) Paladin
+		Recruit
+			(#1) Warrior
+			(#2) Druid
+		Ping
+			(#1) Mage
+			(#2) Rogue
+		Poisonous
+			(#1) Rogue
+			(#2) Hunter
+		Elementals 
+			(#1) Mage
+			(#2) Shaman
+		Ressurrect
+			(#1) Priest
+			(#2) Shaman
+	
+//Todo: Thematic sections, adding to lists, changing lists, resorting lists, etc. 	
+//End			
